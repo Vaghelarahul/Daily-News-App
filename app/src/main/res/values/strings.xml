@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Daily News Pool</string>
+    <string name="oops">Oops !!</string>
+    <string name="empty_text">No result found !!</string>
+    <string name="no_internet">Network not available</string>
+    <string name="null_content_type">unknown</string>
+    <string name="null_content_section">All</string>
+    <string name="searchView_Hint">Search here about...</string>
+    <string name="search_menu">Search</string>
+    <string name="refresh_action">Refresh</string>
+
+    <string name="news_title">News Title Here</string>
+    <string name="news_description">News description here</string>
+
+
+</resources>
